@@ -6,7 +6,7 @@ public class CarViewer
 	{
 		JFrame frame = new JFrame();
 
-		frame.setSize(800, 800);
+		frame.setSize(700, 700);
 		frame.setTitle("Two cars");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
